@@ -2,7 +2,6 @@
 
 Este é um conversor de moedas que permite converter valores entre diferentes moedas e visualizar a variação dos últimos 7 dias em um gráfico interativo usando Chart.js.
 
-![Demonstração](https://via.placeholder.com/800x400?text=Preview+do+Conversor)
 
 ## 🛠️ Tecnologias Utilizadas
 - **HTML5**
