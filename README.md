@@ -20,7 +20,7 @@ Este é um conversor de moedas que permite converter valores entre diferentes mo
 ## 📝 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/conversor-moedas.git
+   git clone https://github.com/LeonardoSilvaAlves/conversor-moedas.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 3. Escolha as moedas e insira um valor para converter.
